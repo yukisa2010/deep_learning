@@ -1,0 +1,3 @@
+# deep leaning
+
+- パーセプトロン
